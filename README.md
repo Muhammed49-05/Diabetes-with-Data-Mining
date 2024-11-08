@@ -1,8 +1,8 @@
-#Dataset Overview
+**Dataset Overview**
 
 This dataset provides information about female patients of Pima Indian heritage, aged 21 and older. It contains several health-related features and a binary outcome variable indicating the presence or absence of diabetes.
 
-#Key Features:
+**Key Features:**
 
 * **Pregnancies:** Number of pregnancies.
 * **Glucose:** Plasma glucose concentration after a glucose tolerance test.
@@ -34,4 +34,3 @@ This dataset provides information about female patients of Pima Indian heritage,
 
 **Correlation Analysis:**
 The correlation matrix reveals the strength and direction of relationships between features. Some features may have stronger correlations with the outcome variable than others.
-
